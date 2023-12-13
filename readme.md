@@ -43,6 +43,5 @@ Current pentesting features include sorting urls that have parameters to a seper
 
 Eclipse takes a list of URLs from a text file, then initiates a multi-threaded web crawling process (using the 'nightcrawler.py' script) to scan those URLs at a specified depth, utilizing the specified number of threads for concurrent processing.
 
-    ```bash
+
     python eclipse.py
-    ```
